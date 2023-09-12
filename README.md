@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working as a Senior Software Engineer at Pagero<br>👯 I'm currently learning OpenAI, React and AWS<br>⚡ I'm lazy and smart.
+🔭 Working as a Senior Software Engineer at Pagero<br>👯 I'm currently learning OpenAI, React and AWS<br>⚡ I'm lazy and smart.
 
 
 ## 🌐 Socials:
